@@ -15,9 +15,6 @@ DHT dht(DHTPIN, DHTTYPE);
 #define wifi_password "PASSWORD"
 
 #define mqtt_server "BROKER IP"
-#define mqtt_user "USERNAME"
-#define mqtt_password "PASSWORD"
-#define knopf "test/lel"
 
 #define humidity_topic "wetterstation/feuchteD"
 #define temperature_celsius_topic "wetterstation/Temperatur_celsiusD"
